@@ -45,6 +45,7 @@ void loop() {
     }
   }
 }
+
 **Управление светодиодами по двум входным сигналам**
 const int inputPin1 = 11;
 const int inputPin2 = 12;
