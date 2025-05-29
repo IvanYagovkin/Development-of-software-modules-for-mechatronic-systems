@@ -20,6 +20,7 @@ void setup() {
   display.println("Ожидание сигнала...");
   display.display();
 }
+
 **Чтение данных из последовательного порта и вывод на дисплей**
 char incomingData[64];
 int dataIndex = 0;
